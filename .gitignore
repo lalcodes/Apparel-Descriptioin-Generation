@@ -1,0 +1,25 @@
+# Ignore directory
+ckpt/
+data/
+__pycache__/
+test_images/
+
+#Ignore files
+*.hdf5
+*.h5
+*.csv
+test.ipynb
+Syamlal_Apprl_caption_TFmodel_Testing.ipynb
+app2.py
+*.ipynb
+key_config.py
+
+#Ignore images
+*.jpg
+*.png
+*.webp
+*.bmp
+*.jpeg
+
+# Ignore Mac system files
+.DS_store

@@ -1,0 +1,8 @@
+Flask
+tensorflow==2.8.2
+pandas
+numpy
+opencv-python
+nanoid
+boto3
+gdown
