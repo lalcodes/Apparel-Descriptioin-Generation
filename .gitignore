@@ -1,6 +1,6 @@
 # Ignore directory
-ckpt/
-data/
+ckpt/*
+data/*
 __pycache__/
 test_images/
 
