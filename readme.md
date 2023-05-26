@@ -1,4 +1,4 @@
-# Feature Extraction of Apparels using Deep Learning
+# Description Generation of Apparels using Deep Learning
 
 DEMO
 
